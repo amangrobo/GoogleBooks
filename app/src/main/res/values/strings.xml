@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Google Books</string>
+    <string name="search_hint">Enter search keyword</string>
+    <string name="no_internet">No Internet Connection</string>
+    <string name="no_data">NO BOOKS FOUND</string>
+
+</resources>
